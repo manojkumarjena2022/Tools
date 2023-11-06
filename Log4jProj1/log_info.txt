@@ -1,0 +1,24 @@
+2023-11-06 23:46:35DEBUG electTest3       main main       457 42 com.mj.jdbc.SelectTest:: JDBC driver class loaded 
+2023-11-06 23:46:35DEBUG electTest3       main main       1138 45 com.mj.jdbc.SelectTest:: JDBC connection is established with DB s/w 
+2023-11-06 23:46:36DEBUG electTest3       main main       1252 50 com.mj.jdbc.SelectTest:: JDBC statement object is created 
+2023-11-06 23:46:36DEBUG electTest3       main main       1457 57 com.mj.jdbc.SelectTest:: SQL query is send to DB s/w and ResultSet object is generated 
+2023-11-06 23:46:36WARN electTest3       main main       1465 66 com.mj.jdbc.SelectTest:: ResultSet object is processed 
+2023-11-06 23:46:36DEBUG electTest3       main main       1465 67 com.mj.jdbc.SelectTest:: The ResultSet object are retrived using getString(-) for all cols change them accordingly 
+2023-11-06 23:46:36DEBUG electTest3       main main       1468 87 com.mj.jdbc.SelectTest:: closing JDBC objs 
+2023-11-06 23:46:36DEBUG electTest3       main main       1471 91 com.mj.jdbc.SelectTest:: closing ResultSet obj 
+2023-11-06 23:46:36DEBUG electTest3       main main       1471 100 com.mj.jdbc.SelectTest:: closing Statement obj 
+2023-11-06 23:46:36DEBUG electTest3       main main       1473 109 com.mj.jdbc.SelectTest:: closing Connection obj 
+2023-11-06 23:46:36DEBUG electTest3       main main       1474 117 com.mj.jdbc.SelectTest:: end on main(-) method: 
+2023-11-06 23:46:37INFO electTest3   <clinit> main       0 26 com.mj.jdbc.SelectTest::Log4j Setup ready 
+2023-11-06 23:46:37DEBUG electTest3       main main       3 35 com.mj.jdbc.SelectTest:: start of main(-) method 
+2023-11-06 23:46:38DEBUG electTest3       main main       408 42 com.mj.jdbc.SelectTest:: JDBC driver class loaded 
+2023-11-06 23:46:39DEBUG electTest3       main main       1119 45 com.mj.jdbc.SelectTest:: JDBC connection is established with DB s/w 
+2023-11-06 23:46:39DEBUG electTest3       main main       1236 50 com.mj.jdbc.SelectTest:: JDBC statement object is created 
+2023-11-06 23:46:39DEBUG electTest3       main main       1444 57 com.mj.jdbc.SelectTest:: SQL query is send to DB s/w and ResultSet object is generated 
+2023-11-06 23:46:39WARN electTest3       main main       1454 66 com.mj.jdbc.SelectTest:: ResultSet object is processed 
+2023-11-06 23:46:39DEBUG electTest3       main main       1454 67 com.mj.jdbc.SelectTest:: The ResultSet object are retrived using getString(-) for all cols change them accordingly 
+2023-11-06 23:46:39DEBUG electTest3       main main       1455 87 com.mj.jdbc.SelectTest:: closing JDBC objs 
+2023-11-06 23:46:39DEBUG electTest3       main main       1459 91 com.mj.jdbc.SelectTest:: closing ResultSet obj 
+2023-11-06 23:46:39DEBUG electTest3       main main       1459 100 com.mj.jdbc.SelectTest:: closing Statement obj 
+2023-11-06 23:46:39DEBUG electTest3       main main       1461 109 com.mj.jdbc.SelectTest:: closing Connection obj 
+2023-11-06 23:46:39DEBUG electTest3       main main       1462 117 com.mj.jdbc.SelectTest:: end on main(-) method: 
